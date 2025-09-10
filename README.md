@@ -23,7 +23,7 @@ El usuario decide qué elementos consumir de forma interactiva.
 ---
 
 ## 🏗️ Diagrama de clases
-<img width="1110" height="1266" alt="Restaurante" src="https://github.com/user-attachments/assets/9478b0ef-7677-423e-aeb8-8e8b4a4f22b3" />
+<img width="1189" height="1266" alt="Restaurante" src="https://github.com/user-attachments/assets/2b837b2c-d637-4d0e-9a7f-344906d8d9d7" />
 
 
 ## ▶️ Ejecución
